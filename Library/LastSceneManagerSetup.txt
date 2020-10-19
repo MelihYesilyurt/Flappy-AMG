@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/sahneler/Start Menu.unity
+  isLoaded: 1
+  isActive: 1
