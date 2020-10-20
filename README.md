@@ -1,4 +1,4 @@
-Bu oyunu lisedeyken, Facebook'taki AMG grubu için yaptım ve o zaman yayınlandım.
+Bu oyunu lisedeyken, Facebook'taki AMG grubu için yaptım ve o zaman yayınladım.
 Bu linkten oyunun yayınlanmış haline erişebilirsiniz:
 https://play.google.com/store/apps/details?id=com.THEKILIANREX.FlappyAmg
 
